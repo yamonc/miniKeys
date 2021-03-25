@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/css/index.css">
+</head>
+<body>
+<img src="/static/images/a.png"/>
+这是一个静态页面
+<h1>name: {{.name}}</h1>
+<h1>age: {{.age}}</h1>
+<p>{{.users}}</p>
+
+{{range .users}}
+    <p>{{.}}</p>
+{{end}}
+</body>
+</html>
