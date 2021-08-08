@@ -77,7 +77,7 @@ miniKeys使用前后端分离的方式完成用户功能，前端使用微信小
 
 ## 项目总结
 
-- [miniKeys——钥匙库项目系列一（项目介绍以及Go项目部署）](http://yamon.top/blog/93)
+- [miniKeys——钥匙库项目系列一（项目介绍以及Go项目部署）](https://yamon.top/blog/93)
 
 ## 待优化
 
